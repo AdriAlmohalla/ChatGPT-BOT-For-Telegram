@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lNNPG58Sp8Tne8K+LglAPptRVpIVS02mUQdFPcqn8uwIL6Fjc540i4g08izAZFx81RHZGH8d7C6hFFMvD7UsoQ==",
+  "dgSpecHash": "w7YNAmi/rfA9is0fAnEB1UZmTDRbR2L3gV16m4QwXamRB95dq4tVenG5mClZpIrMBXo0jNLO25PtNj4jHl/1lA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\adri2\\Desktop\\CodeHouse\\net\\Ejercicios\\ChatGPTBot\\ChatGPTBot\\ChatGPTBot.csproj",
+  "projectFilePath": "C:\\Users\\adri2\\Desktop\\Code\\ChatGPTBot\\ChatGPTBot\\ChatGPTBot.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\adri2\\.nuget\\packages\\betalgo.openai.gpt3\\6.8.1\\betalgo.openai.gpt3.6.8.1.nupkg.sha512",
     "C:\\Users\\adri2\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",

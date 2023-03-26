@@ -638,11 +638,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\adri2\\Desktop\\CodeHouse\\net\\Ejercicios\\ChatGPTBot\\ChatGPTBot\\ChatGPTBot.csproj",
+      "projectUniqueName": "C:\\Users\\adri2\\Desktop\\Code\\ChatGPTBot\\ChatGPTBot\\ChatGPTBot.csproj",
       "projectName": "ChatGPTBot",
-      "projectPath": "C:\\Users\\adri2\\Desktop\\CodeHouse\\net\\Ejercicios\\ChatGPTBot\\ChatGPTBot\\ChatGPTBot.csproj",
+      "projectPath": "C:\\Users\\adri2\\Desktop\\Code\\ChatGPTBot\\ChatGPTBot\\ChatGPTBot.csproj",
       "packagesPath": "C:\\Users\\adri2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\adri2\\Desktop\\CodeHouse\\net\\Ejercicios\\ChatGPTBot\\ChatGPTBot\\obj\\",
+      "outputPath": "C:\\Users\\adri2\\Desktop\\Code\\ChatGPTBot\\ChatGPTBot\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\adri2\\AppData\\Roaming\\NuGet\\NuGet.Config",

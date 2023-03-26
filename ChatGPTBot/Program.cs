@@ -14,7 +14,7 @@ namespace Gpt_Bot
         {
             Console.WriteLine("Escribe una consulta:");
 
-            var Bot = new TelegramBotClient("YOUR_BOT_API_KEY_HERE");
+            var Bot = new TelegramBotClient("YOUR_BOT_TOKEN_HERE");
             Bot.StartReceiving(Update, Error);
             Console.ReadLine();
         }
